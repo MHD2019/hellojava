@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <title>Hello World</title>
+</head>
+<body>
+<p>
+    <span style="color:#ff2f39;">Hello World!</span>
+</p>
+<input type="button" value="Hello" onClick="alert('This is my test on homework_1!');" />
+
+<svg width="50" height="50">
+    <circle cx="25" cy="25" r="25" fill="purple" />
+</svg>
+
+<svg width="50" height="50">
+    <line x1="5" y1="5" x2="40" y2="40" stroke="gray" stroke-width="5"  />
+</svg>
+
+
+<svg width="50" height="50">
+    <polygon fill="red" stroke="yellow" stroke-width="5"
+             points="10,20
+                      20,20      30,40" />
+    </svg>
+
+<svg width="50" height="50">
+    2  <rect x="0" y="0" width="50" height="50" fill="green" />
+    3</svg>
+
+</body>
